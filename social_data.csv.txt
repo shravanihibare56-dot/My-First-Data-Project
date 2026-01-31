@@ -1,0 +1,6 @@
+tweet,sentiment
+"I love this new phone!",Positive
+"The battery life is terrible.",Negative
+"It is an okay product, not great.",Neutral
+"Amazing performance, highly recommended!",Positive
+"I am very disappointed with the service.",Negative
